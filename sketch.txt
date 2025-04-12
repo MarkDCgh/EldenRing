@@ -1,0 +1,39 @@
+MAIN CHARACTER: ChoosedName
+
+MAIN CHARACTER STATS: 
+Health: fmax 20 (1 = 5HP)
+Strength: max 20 (1 = +5 NormalDamage)
+Arcane: max 20 (1 = +5 SpecialDamage)
+Dexterity: max 20 (1 = +5% To Dodge)
+
+SPECIAL STATS: 
+BLOOD
+POISON 
+MAGIC (the enemy does less damage but the damage of the tarnished is also less for the next turn)
+LIGHT 
+FIRE AND MAGMA 
+
+BOSSES: Mohgwyn, Placidussax, Maliketh, Astel, Rykard, Malenia
+
+ENEMIES: 
+SIOFRA RIVER: MagicAlbinaurics, MOHGWYN 
+VOLCANO MANOR: PoisonedSnakes, MagmaDragons, RYKARD
+AINSEL RIVER: PoisonedMantis, PoisonedGiantInsects, ASTEL
+MIQUELLA'S TREE: LightSoldiers, MALENIA
+FARUM AZULA: LightningDragons, BloodBeastman, PLACIDUSSAX, MALIKETH
+
+MAP POINTS:
+Volcano manor, Farum Azula, Ainsel river, Miquella's Tree, Siofra River
+
+
+
+
+
+
+
+
+
+
+
+
+
